@@ -18,43 +18,43 @@ UI is not very friendly, but who said that it should be? ha-ha
 ![HALL](https://github.com/bioidiad/doom_nukem/raw/master/room.png)
 ![HALL](https://github.com/bioidiad/doom_nukem/raw/master/hall.png)
 
-Controls:
-WASD	-	walk directions
-V/C		-	fly mode
-shift	-	run
-ctrl	-	sit
-X			- lie
-space	- jump
-M			- minimap mode
-F			- interactions with objects
-L			- light mode
-
-Only in player mode: (run ./doom_nukem -g map_name)
-G			- remove button
-R			- install button
-
-Only in editor mode: (run ./doom_nukem map_name)
-E			- switching 2d/3d mode
-G			- put graffity. after this you can apply texture with numbers
-                secondary will put picture on the wall
-                double G will put the button object on the wall
-`			0 - floor, 1 - ceiling, 2 - walls, 3 - bottom line, 4 - top line
-1-9			choose texture.
-O-P			change floor height
-J-K			change ceil height
-H           set/remove door. 
-Backspace	- removes all graffity in current sector
-
-You can use graffity as buttons. When you placing graffity by the left/right side of door, it will control it's opening.
-Player can set/remove only buttons graffity.
-
-Map editor
-
-pure LMB - sector select
-pure RMB без режимов - sector to door convertion (player cannot be inside)
-mouse wheel button - set final sector
-
-del/Backspace - remove selected sector
-tab - save map to a file
-Е - anter 3d mode
-arrows - map mooving
+Controls:</br>
+WASD	-	walk directions</br>
+V/C		-	fly mode</br>
+shift	-	run</br>
+ctrl	-	sit</br>
+X			- lie</br>
+space	- jump</br>
+M			- minimap mode</br>
+F			- interactions with objects</br>
+L			- light mode</br>
+</br>
+Only in player mode: (run ./doom_nukem -g map_name)</br>
+G			- remove button</br>
+R			- install button</br>
+</br>
+Only in editor mode: (run ./doom_nukem map_name)</br>
+E			- switching 2d/3d mode</br>
+G			- put graffity. after this you can apply texture with numbers</br>
+              secondary will put picture on the wall</br>
+              double G will put the button object on the wall</br>
+\`			0 - floor, 1 - ceiling, 2 - walls, 3 - bottom line, 4 - top line</br>
+1-9			choose texture.</br>
+O-P			change floor height</br>
+J-K			change ceil height</br>
+H           set/remove door.</br>
+Backspace	- removes all graffity in current sector</br>
+</br>
+You can use graffity as buttons. When you placing graffity by the left/right side of door, it will control it's opening.</br>
+Player can set/remove only buttons graffity.</br>
+</br>
+Map editor</br>
+</br>
+pure LMB - sector select</br>
+pure RMB без режимов - sector to door convertion (player cannot be inside)</br>
+mouse wheel button - set final sector</br>
+</br>
+del/Backspace - remove selected sector</br>
+tab - save map to a file</br>
+Е - anter 3d mode</br>
+arrows - map mooving</br>
