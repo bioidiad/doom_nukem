@@ -4,7 +4,7 @@ Based on SDL2 library with using no renderer or other standart SDL2 functions - 
 generics.</br>
 
 Running on MacOS, Linux</br>
-Dependencies: SDL2, SDL2_ttf, SDL2_mixer</br>
+Dependencies: SDL2, SDL2_ttf, SDL2_image</br>
 </br>
 This project was written with a group of 4 students with a purpose to learn most basic graphical tricks.</br>
 </br>
