@@ -50,11 +50,11 @@ Player can set/remove only buttons graffity.</br>
 </br>
 Map editor</br>
 </br>
-pure LMB - sector select</br>
-pure RMB без режимов - sector to door convertion (player cannot be inside)</br>
+LMB - sector select</br>
+RMB - sector to door convertion (player cannot be inside)</br>
 mouse wheel button - set final sector</br>
 </br>
 del/Backspace - remove selected sector</br>
 tab - save map to a file</br>
-Е - anter 3d mode</br>
+Е - enter 3d mode</br>
 arrows - map mooving</br>
